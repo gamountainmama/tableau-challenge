@@ -2,7 +2,7 @@
 
 My Tableau Public site:
 
-https://public.tableau.com/app/profile/carol.love/viz/TableauChallenge_16816685187320/Story1 
+https://public.tableau.com/shared/5R5B63HM8?:display_count=n&:origin=viz_share_link
 
 My GitHub repository for the CSV files, README.md, and Tableau workbook:
 
